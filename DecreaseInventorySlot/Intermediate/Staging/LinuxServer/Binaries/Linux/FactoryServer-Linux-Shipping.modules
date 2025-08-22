@@ -1,7 +1,0 @@
-{
-	"BuildId": "SML",
-	"Modules": 
-	{
-		"DecreaseInventorySlot": "libFactoryServer-DecreaseInventorySlot-Linux-Shipping.so"
-	}
-}

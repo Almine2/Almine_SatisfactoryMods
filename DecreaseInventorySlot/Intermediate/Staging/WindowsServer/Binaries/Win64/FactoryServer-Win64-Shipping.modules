@@ -1,7 +1,0 @@
-{
-	"BuildId": "SML",
-	"Modules": 
-	{
-		"DecreaseInventorySlot": "FactoryServer-DecreaseInventorySlot-Win64-Shipping.dll"
-	}
-}
