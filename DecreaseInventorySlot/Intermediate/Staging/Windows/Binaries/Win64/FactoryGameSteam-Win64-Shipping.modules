@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"DecreaseInventorySlot": "FactoryGameSteam-DecreaseInventorySlot-Win64-Shipping.dll"
+	}
+}

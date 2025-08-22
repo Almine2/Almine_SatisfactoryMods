@@ -1,0 +1,7 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"DecreaseInventorySlot": "libFactoryServer-DecreaseInventorySlot-Linux-Shipping.so"
+	}
+}

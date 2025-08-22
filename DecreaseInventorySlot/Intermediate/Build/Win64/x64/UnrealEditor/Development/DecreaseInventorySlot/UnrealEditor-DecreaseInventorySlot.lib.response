@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DecreaseInventorySlot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SFMU52\SFM\Intermediate\Build\Win64\x64\FactoryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\Documents\SFMU52\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\UnrealEditor\Development\DecreaseInventorySlot\Module.DecreaseInventorySlot.cpp.obj"
+"E:\Documents\SFMU52\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\UnrealEditor\Development\DecreaseInventorySlot\Default.rc2.res"
+/OUT:"E:\Documents\SFMU52\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\UnrealEditor\Development\DecreaseInventorySlot\UnrealEditor-DecreaseInventorySlot.lib"

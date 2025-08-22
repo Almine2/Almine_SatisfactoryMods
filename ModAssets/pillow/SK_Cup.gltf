@@ -1,0 +1,276 @@
+{
+  "asset" : {
+    "generator" : "UE Viewer (umodel) build 1587",
+    "version" : "2.0"
+  },
+  "scene" : 0,
+  "scenes" : [
+    {
+      "nodes" : [ 0 ]
+    }
+  ],
+  "nodes" : [
+    {
+      "name" : "SK_Cup",
+      "mesh" : 0,
+      "skin" : 0,
+      "children" : [ 1 ]
+    },
+    {
+      "name" : "Root",
+      "children" : [ 2 ],
+      "translation" : [ 0, 0, 0 ],
+      "rotation" : [ -0, -0, -0, 1 ]
+    },
+    {
+      "name" : "handle",
+      "children" : [ 3 ],
+      "translation" : [ 0, 0, -0 ],
+      "rotation" : [ -0, 0.707107, -0, -0.707107 ]
+    },
+    {
+      "name" : "coffee",
+      "translation" : [ 0, 0.000641728, -0.0629013 ],
+      "rotation" : [ -0.707107, -0.707107, 4.32978e-17, 4.32978e-17 ]
+    }
+  ],
+  "skins" : [
+    {
+      "inverseBindMatrices" : 0,
+      "skeleton" : 1,
+      "joints" : [
+        1,2,3
+      ]
+    }
+  ],
+  "materials" : [
+    {
+      "name" : "MM_Cup",
+      "pbrMetallicRoughness" : {
+        "baseColorFactor" : [ 0.3, 0.3, 0.3, 1.0 ],
+        "metallicFactor" : 0.1,
+        "roughnessFactor" : 0.5
+      }
+    },
+    {
+      "name" : "MI_CoffeeCup",
+      "pbrMetallicRoughness" : {
+        "baseColorFactor" : [ 0.9, 0.3, 0.3, 1.0 ],
+        "metallicFactor" : 0.1,
+        "roughnessFactor" : 0.5
+      }
+    }
+  ],
+  "meshes" : [
+    {
+      "primitives" : [
+        {
+          "attributes" : {
+            "POSITION" : 2,
+            "NORMAL" : 3,
+            "TANGENT" : 4,
+            "JOINTS_0" : 5,
+            "WEIGHTS_0" : 6,
+            "TEXCOORD_0" : 7
+          },
+          "indices" : 1,
+          "material" : 0
+        },
+        {
+          "attributes" : {
+            "POSITION" : 9,
+            "NORMAL" : 10,
+            "TANGENT" : 11,
+            "JOINTS_0" : 12,
+            "WEIGHTS_0" : 13,
+            "TEXCOORD_0" : 14
+          },
+          "indices" : 8,
+          "material" : 1
+        }
+      ],
+      "name" : "SK_Cup"
+    }
+  ],
+  "buffers" : [
+    {
+      "uri" : "SK_Cup.bin",
+      "byteLength" : 77808
+    }
+  ],
+  "bufferViews" : [
+    {
+      "buffer" : 0,
+      "byteOffset" : 0,
+      "byteLength" : 192
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 192,
+      "byteLength" : 10476
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 10668,
+      "byteLength" : 12744
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 23412,
+      "byteLength" : 12744
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 36156,
+      "byteLength" : 16992
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 53148,
+      "byteLength" : 8496
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 61644,
+      "byteLength" : 4248
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 65892,
+      "byteLength" : 8496
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 74388,
+      "byteLength" : 480
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 74868,
+      "byteLength" : 588
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 75456,
+      "byteLength" : 588
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 76044,
+      "byteLength" : 784
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 76828,
+      "byteLength" : 392
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 77220,
+      "byteLength" : 196
+    },
+    {
+      "buffer" : 0,
+      "byteOffset" : 77416,
+      "byteLength" : 392
+    }
+  ],
+  "accessors" : [
+    {
+      "bufferView" : 0,
+      "componentType" : 5126,
+      "count" : 3,
+      "type" : "MAT4"
+    },
+    {
+      "bufferView" : 1,
+      "componentType" : 5123,
+      "count" : 5238,
+      "type" : "SCALAR"
+    },
+    {
+      "bufferView" : 2,
+      "min" : [ -0.0212, -0.0606726, -0.0514035 ],
+      "max" : [ 0.114305, 0.0269443, 0.0514035 ],
+      "componentType" : 5126,
+      "count" : 1062,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 3,
+      "componentType" : 5126,
+      "count" : 1062,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 4,
+      "componentType" : 5126,
+      "count" : 1062,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 5,
+      "componentType" : 5123,
+      "count" : 1062,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 6,
+      "normalized" : true,
+      "componentType" : 5121,
+      "count" : 1062,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 7,
+      "componentType" : 5126,
+      "count" : 1062,
+      "type" : "VEC2"
+    },
+    {
+      "bufferView" : 8,
+      "componentType" : 5123,
+      "count" : 240,
+      "type" : "SCALAR"
+    },
+    {
+      "bufferView" : 9,
+      "min" : [ 0.0177737, -0.00291372, -0.0451287 ],
+      "max" : [ 0.10803, 0.00207593, 0.0451275 ],
+      "componentType" : 5126,
+      "count" : 49,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 10,
+      "componentType" : 5126,
+      "count" : 49,
+      "type" : "VEC3"
+    },
+    {
+      "bufferView" : 11,
+      "componentType" : 5126,
+      "count" : 49,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 12,
+      "componentType" : 5123,
+      "count" : 49,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 13,
+      "normalized" : true,
+      "componentType" : 5121,
+      "count" : 49,
+      "type" : "VEC4"
+    },
+    {
+      "bufferView" : 14,
+      "componentType" : 5126,
+      "count" : 49,
+      "type" : "VEC2"
+    }
+  ]
+}

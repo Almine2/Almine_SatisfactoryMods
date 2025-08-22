@@ -1,0 +1,1 @@
+#include "E:/Documents/SFMU53_1/SFM/Mods/DecreaseInventorySlot/Source/DecreaseInventorySlot/Public/DecreaseInventorySlotModule.h"

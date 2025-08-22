@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3.2",
+	"SemVersion": "1.3.2",
+	"FriendlyName": "JaceSnuttPillowOnHub",
+	"Description": "Add static body-length pillow on HUB bed.",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "https://www.twitch.tv/almine2",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.11.0",
+			"Enabled": true
+		}
+	],
+	"AcceptsAnyRemoteVersion": false,
+	"GameVersion": ">=410840"
+}

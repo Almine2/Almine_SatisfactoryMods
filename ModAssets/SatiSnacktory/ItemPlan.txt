@@ -1,0 +1,114 @@
+
+Items::
+ Seeds::
+  
+  
+ Crops::
+  Wheat
+  Tomato
+  Suger
+  Salt
+  BlackPepper
+  Corn
+  Cabbage
+  Lettuce
+  Potato
+  Carrot
+  Onions
+  Ginger
+  Milk
+  Spinach
+  Soy beans
+  Garlic
+  Jalapeno
+  Olives
+  Radish
+  EGG
+  Broccoli
+  Cucumber
+  Beetroot
+  Punmpkin
+  Mushrrom
+  Turnip
+  Cinnamon
+  Celery
+  *Cauliflower
+  Paprica
+  Bell Pepper
+  Eggplant
+  Asparagas
+  Coriander
+  Cheese
+  Vineger
+  Chocolate
+  Oil
+  
+ Middle Product::
+  Mayo
+  Ketchup
+
+
+ Final Product::
+  Burger{Ham, chicken,tomato lettuce, cheese}
+  Pasta{Carbonara, }
+  Pizza{Pinapple, pepperoni, margerita, }
+  //Sushi
+  Soup{Tomato, Chiken, too many}
+  Sandwiches
+  Ramen?{Soy sauce, Miso, Salt}
+  Dumplings{Gyoza, Bum}
+  Fries
+  Taco
+  Buttito
+  Hotdog
+  Pie{Apple, Pumpkin, }
+  Cake
+  Cookie{Chocolate} <- Baking Cookie[Manufacture/flour&EGG&Packed Milk&suger]
+  Muffin
+  Pancake
+  Steak{Sauce option?}
+  Turkey
+  Ratatouile
+  Quiche
+  Tofu{sauce option?} <- Solidfier Todu[Blender/Nigari&soybeanmilk] <- Boil grinded Soybean[refinery/grinded soybean&water] <- Grind soybean[constructor/soybean] 
+  Fried Tofu
+  Spanakopita
+  Baba ganoush
+  Curry{Chicken, vege} <- finalize curry[Blender/]
+  Nam <- 
+  Hogchop <- bake hog[constructor/seas] <- seasoned hog[manufactuerer/chopped hog&salt&black pepper] <- choppoing hog meat[constructor/hog meat] <- Organic Hog[manufactuerer/wheat&carrot&Spinach&EGG]
+  Popcorn <- Pop corn[constructor/corn seeds]
+  Chicken
+  Tandoori Chiken
+  Baked Potato <- Baking potato[assembler/potato&butter] alt{Baking potato2[Manufacture/potato&salt&butter]}
+  Mashed Potato <- Mashing potato[constructor/boilled potato] <- Boilling potato[refinery/potato&water]
+  "cold potato soup"//TODO: search name
+  Candy
+  Gummy
+  IceCream
+  Cocoa <- 
+  lolipop <- process lolipop[blender/melted suger&corn starch] <- melted super[refinery/suger] & corn starch[]
+  Chips <- Fries potato slice[Assembler/oil+sliced potato] <- sliced potato[constructor/potato] & oil[refinery/oilseed+water] <- potato & oilseed
+  Milkshakes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

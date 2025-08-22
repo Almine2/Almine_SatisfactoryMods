@@ -1,0 +1,19 @@
+"E:/Documents/SFMU53_1/SFM/Mods/DecreaseInventorySlot/Intermediate/Build/Linux/x64/FactoryServer/Shipping/DecreaseInventorySlot/Module.DecreaseInventorySlot.cpp.o"
+ -soname="libFactoryServer-DecreaseInventorySlot-Linux-Shipping.so"
+ -rpath="${ORIGIN}/../../../../../Engine/Source"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Mods/SML/ThirdParty/Linux"
+ -rpath="${ORIGIN}/../../../../../Engine/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Mods/SML/Binaries/Linux"
+ -rpath-link="E:\Documents\SFMU53_1\SFM\Mods\DecreaseInventorySlot\Binaries\Linux"
+ -L"E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux"
+ -L"E:/Program Files/Unreal Engine - CSS/Engine/Binaries/Linux"
+ -L"E:/Documents/SFMU53_1/SFM/Binaries/Linux"
+ -L"E:/Documents/SFMU53_1/SFM/Mods/SML/Binaries/Linux"
+ --start-group
+ E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux/libfunchook.a
+ E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux/libdistorm.a
+ E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux/libAssemblyAnalyzer.a
+ E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux/libZydis.a
+ E:/Documents/SFMU53_1/SFM/Mods/SML/ThirdParty/Linux/libZycore.a
+ --end-group

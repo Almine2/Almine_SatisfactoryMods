@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "MenuBeanMod",
+	"Description": "Bean Stampede",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		}
+	],
+	"SemVersion": "1.1.0",
+	"GameVersion": ">=410840",
+	"RequiredOnRemote": false
+}

@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
+	"FriendlyName": "Almine2Map",
+	"Description": "Add new map designed by Almine2",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "https://www.twitch.tv/almine2",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.8.0",
+			"Enabled": true
+		}
+	],
+	"AcceptsAnyRemoteVersion": false,
+	"GameVersion": ">=377620"
+}

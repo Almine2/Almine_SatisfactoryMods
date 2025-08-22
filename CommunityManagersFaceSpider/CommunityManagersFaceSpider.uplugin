@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2.2",
+	"SemVersion": "1.2.2",
+	"FriendlyName": "CommunityManagersFaceSpider",
+	"Description": "Spawn Community Managers Face in front of spiders",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.11.1",
+			"Enabled": true
+		}
+	],
+	"AcceptsAnyRemoteVersion": false,
+	"GameVersion": ">=416835",
+	"RequiredOnRemote": false
+}

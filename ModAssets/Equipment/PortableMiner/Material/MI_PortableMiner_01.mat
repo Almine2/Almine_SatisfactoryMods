@@ -1,0 +1,8 @@
+Diffuse=TX_PortableMiner_BC
+Normal=TX_PortableMiner_N
+Cube=TX_PortableMiner_Refl
+Other[0]=TX_PortableMiner_AOMasks
+Other[1]=TX_Railing_01_MaskAO
+Other[2]=T_PowerPoleWall_Reflection
+Other[3]=TX_TrainTrack_BC
+Other[4]=TX_TrainTrack_N

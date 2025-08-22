@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+/DEF
+/NAME:"FactoryServer-DecreaseInventorySlot-Win64-Shipping.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\SFMU53\SFM\Intermediate\Build\Win64\x64\FactoryServer\Shipping\Engine\SharedPCH.Engine.Cpp17.h.obj"
+"E:\Documents\SFMU53\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\FactoryServer\Shipping\DecreaseInventorySlot\Module.DecreaseInventorySlot.cpp.obj"
+"E:\Documents\SFMU53\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\FactoryServer\Shipping\DecreaseInventorySlot\Default.rc2.res"
+/OUT:"E:\Documents\SFMU53\SFM\Mods\DecreaseInventorySlot\Intermediate\Build\Win64\x64\FactoryServer\Shipping\DecreaseInventorySlot\FactoryServer-DecreaseInventorySlot-Win64-Shipping.lib"

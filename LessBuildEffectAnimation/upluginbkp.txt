@@ -1,0 +1,7 @@
+"Modules": [
+		{
+			"Name": "LessBuildEffectAnimation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
