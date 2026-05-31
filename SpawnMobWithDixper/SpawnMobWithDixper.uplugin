@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.2",
+	"SemVersion": "1.1.2",
+	"FriendlyName": "SpawnMobWithDixper",
+	"Description": "Needs Dixper to work. Spawn creature with dixper",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.7.0",
+			"Enabled": true,
+			"BasePlugin": false
+		}
+	],
+	"RemoteVersionRange": "",
+	"AcceptsAnyRemoteVersion": false
+}
