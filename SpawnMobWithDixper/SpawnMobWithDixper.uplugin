@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.2",
-	"SemVersion": "1.1.2",
+	"VersionName": "1.1.3",
+	"SemVersion": "1.1.3",
 	"FriendlyName": "SpawnMobWithDixper",
 	"Description": "Needs Dixper to work. Spawn creature with dixper",
 	"Category": "Modding",
@@ -18,11 +18,10 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.7.0",
-			"Enabled": true,
-			"BasePlugin": false
+			"SemVersion": "^3.11.1",
+			"Enabled": true
 		}
 	],
-	"RemoteVersionRange": "",
-	"AcceptsAnyRemoteVersion": false
+	"AcceptsAnyRemoteVersion": false,
+	"GameVersion": ">=416835"
 }
