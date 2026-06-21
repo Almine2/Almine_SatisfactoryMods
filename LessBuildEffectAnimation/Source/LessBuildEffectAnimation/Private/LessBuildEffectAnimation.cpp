@@ -1,6 +1,6 @@
 #include "LessBuildEffectAnimationModule.h"
-#include "FGBlueprintHologram.h"
-#include "FGBuildable.h"
+#include "Hologram/FGBlueprintHologram.h"
+#include "Buildables/FGBuildable.h"
 #include "FGBuildEffectActor.h"
 #include "Hologram/FGBuildableHologram.h"
 #include "Patching/NativeHookManager.h"

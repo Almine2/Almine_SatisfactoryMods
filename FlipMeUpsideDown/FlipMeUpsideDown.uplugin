@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "FlipMeUpsideDown",
+	"Description": "For PIO Event. Blame DC_Wan",
+	"Category": "Modding",
+	"CreatedBy": "Almine2",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		}
+	],
+	"SemVersion": "1.0.2",
+	"GameVersion": ">=491125",
+	"RequiredOnRemote": false
+}

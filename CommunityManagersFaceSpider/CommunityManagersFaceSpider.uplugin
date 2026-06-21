@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.2",
-	"SemVersion": "1.2.2",
+	"VersionName": "1.2.4",
+	"SemVersion": "1.2.4",
 	"FriendlyName": "CommunityManagersFaceSpider",
 	"Description": "Spawn Community Managers Face in front of spiders",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.11.1",
+			"SemVersion": "^3.11.3",
 			"Enabled": true
 		}
 	],
 	"AcceptsAnyRemoteVersion": false,
-	"GameVersion": ">=416835",
+	"GameVersion": ">=491125",
 	"RequiredOnRemote": false
 }

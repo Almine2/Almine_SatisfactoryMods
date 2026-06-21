@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.2",
+	"VersionName": "1.1.4",
 	"FriendlyName": "GreenScreenHubMonitor",
 	"Description": "Make HubMonitor GreenScreened",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.0"
+			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "1.1.2",
+	"SemVersion": "1.1.4",
 	"AcceptsAnyRemoteVersion": false,
-	"GameVersion": ">=410840",
+	"GameVersion": ">=491125",
 	"RequiredOnRemote": false
 }

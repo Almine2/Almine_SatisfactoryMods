@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.3",
+	"VersionName": "1.1.5",
 	"FriendlyName": "KeyBindForBlueprint",
 	"Description": "Add Key Bind for Blueprint Menu",
 	"Category": "Modding",
@@ -21,8 +21,9 @@
 			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "1.1.3",
+	"SemVersion": "1.1.5",
 	"AcceptsAnyRemoteVersion": false,
-	"GameVersion": ">=416835",
-	"RequiredOnRemote": false
+	"GameVersion": ">=491125",
+	"RequiredOnRemote": false,
+	"BuiltInInitialFeatureState": "Active"
 }
